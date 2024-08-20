@@ -1,2 +1,2 @@
-# CSC-406
-Repo for CSC 406 Java Course Materials
+# Computer Science Course Materials 
+Class Projects and Assignments 
