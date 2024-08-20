@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>1</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>760</x>
+      <y>37</y>
+      <w>8</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>Customer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>836</x>
+      <y>42</y>
+      <w>12</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Enter Amazon 
+website
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>835</x>
+      <y>35</y>
+      <w>14</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Customer is 
+displayed with main
+menu of website and 
+large index of offers 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>902</x>
+      <y>93</y>
+      <w>12</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Select product 
+type (Books)
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>914</x>
+      <y>93</y>
+      <w>16</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Customer is presented 
+product types along 
+with large index at main
+menu. 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>904</x>
+      <y>111</y>
+      <w>14</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>website loads 8-10
+advertised books
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>903</x>
+      <y>129</y>
+      <w>12</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Customer clicks
+advrt book
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>830</x>
+      <y>138</y>
+      <w>13</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Website loads book
+foreground 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>834</x>
+      <y>57</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Use search bar
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>860</x>
+      <y>85</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>search by ISBN
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>844</x>
+      <y>86</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>search by Title
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>829</x>
+      <y>87</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>search by author
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>813</x>
+      <y>85</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>search by category
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>854</x>
+      <y>103</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>Load book 
+foreground
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>845</x>
+      <y>101</y>
+      <w>9</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Loads book 
+foreground 
+immediately 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>828</x>
+      <y>103</y>
+      <w>12</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Disaply books
+by author 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>820</x>
+      <y>121</y>
+      <w>12</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>Select book
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>813</x>
+      <y>103</y>
+      <w>12</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>displays six 
+category books 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>763</x>
+      <y>40</y>
+      <w>75</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;730.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>847</x>
+      <y>44</y>
+      <w>57</w>
+      <h>53</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;550.0;510.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>907</x>
+      <y>98</y>
+      <w>6</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;40.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>908</x>
+      <y>117</y>
+      <w>5</w>
+      <h>14</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>30.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>763</x>
+      <y>40</y>
+      <w>73</w>
+      <h>22</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;710.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>845</x>
+      <y>61</y>
+      <w>23</w>
+      <h>26</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>210.0;240.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>842</x>
+      <y>62</y>
+      <w>13</w>
+      <h>26</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>80.0;240.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>834</x>
+      <y>62</y>
+      <w>11</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;250.0;50.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>818</x>
+      <y>61</y>
+      <w>20</w>
+      <h>26</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;240.0;180.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>860</x>
+      <y>88</y>
+      <w>12</w>
+      <h>17</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>849</x>
+      <y>89</y>
+      <w>13</w>
+      <h>16</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>833</x>
+      <y>90</y>
+      <w>4</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>20.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>818</x>
+      <y>88</y>
+      <w>3</w>
+      <h>17</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>841</x>
+      <y>131</y>
+      <w>64</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>620.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>838</x>
+      <y>106</y>
+      <w>25</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>230.0;10.0;10.0;320.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>825</x>
+      <y>124</y>
+      <w>12</w>
+      <h>17</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;70.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>827</x>
+      <y>107</y>
+      <w>12</w>
+      <h>16</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>60.0;10.0;10.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>818</x>
+      <y>107</y>
+      <w>11</w>
+      <h>16</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>800</x>
+      <y>137</y>
+      <w>30</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Displays book index and first 10 pages of
+book as well as available new and used
+book hyper links (xxx used/new from $xxx.xx)
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>828</x>
+      <y>165</y>
+      <w>16</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Selects used 
+or 
+new book hyper link
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>740</x>
+      <y>78</y>
+      <w>12</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>Amazon System</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>830</x>
+      <y>191</y>
+      <w>13</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>displays vendor
+list
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>807</x>
+      <y>189</y>
+      <w>23</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>Displays list of books and their 
+vendors/suppliers in ascending
+order, also the number of available 
+books from that specific vendor
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>835</x>
+      <y>142</y>
+      <w>3</w>
+      <h>25</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;230.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>835</x>
+      <y>171</y>
+      <w>3</w>
+      <h>22</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>828</x>
+      <y>213</y>
+      <w>17</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Select book 
+for purchase
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>835</x>
+      <y>195</y>
+      <w>3</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;180.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>829</x>
+      <y>238</y>
+      <w>17</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Select "Buy it now option"
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>856</x>
+      <y>212</y>
+      <w>16</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Select additional 
+book(s) for purchase
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>844</x>
+      <y>214</y>
+      <w>14</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>120.0;30.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>836</x>
+      <y>219</y>
+      <w>9</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;190.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>843</x>
+      <y>218</y>
+      <w>23</w>
+      <h>23</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>210.0;10.0;10.0;210.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>830</x>
+      <y>283</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Select shipping 
+type
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>912</x>
+      <y>544</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer sent back 
+to main menu
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>804</x>
+      <y>267</y>
+      <w>24</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Customer is given option between
+"standard" and "preferential" shipping 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>828</x>
+      <y>328</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Enter shipping 
+address
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>830</x>
+      <y>267</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Prompt customer 
+for shipping type
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>828</x>
+      <y>314</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Prompt customer 
+for shipping address
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>834</x>
+      <y>319</y>
+      <w>3</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>822</x>
+      <y>296</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Preferential
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>839</x>
+      <y>296</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Standard
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>839</x>
+      <y>288</y>
+      <w>11</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>50.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>828</x>
+      <y>287</y>
+      <w>12</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;90.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>829</x>
+      <y>301</y>
+      <w>11</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;50.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>836</x>
+      <y>301</y>
+      <w>13</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>90.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>836</x>
+      <y>272</y>
+      <w>9</w>
+      <h>13</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>836</x>
+      <y>244</y>
+      <w>9</w>
+      <h>25</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;230.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>918</x>
+      <y>111</y>
+      <w>13</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Advertized books 
+are according to 
+that day
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>739</x>
+      <y>71</y>
+      <w>15</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Amazon system 
+&amp; website functionality
+is lumped together
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>755</x>
+      <y>34</y>
+      <w>18</w>
+      <h>3</h>
+    </coordinates>
+    <panel_attributes>Customer Usecase Color
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>827</x>
+      <y>346</y>
+      <w>16</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Display entire cost
+&amp; bring up CC screen
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>834</x>
+      <y>333</y>
+      <w>3</w>
+      <h>15</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;130.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>803</x>
+      <y>346</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Prompt customer for
+CC info
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>816</x>
+      <y>347</y>
+      <w>13</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;110.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>825</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer enters
+CC Type
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>849</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer enters
+CC #
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>874</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer enters
+three digit code
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>838</x>
+      <y>391</y>
+      <w>13</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;110.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>862</x>
+      <y>391</y>
+      <w>14</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;120.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>803</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer enters
+CC Info
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>816</x>
+      <y>391</y>
+      <w>11</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;90.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>809</x>
+      <y>351</y>
+      <w>3</w>
+      <h>41</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;390.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>896</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Prompt customer for
+billing address
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>887</x>
+      <y>391</y>
+      <w>11</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>90.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>918</x>
+      <y>390</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer enters 
+billing address
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>909</x>
+      <y>391</y>
+      <w>11</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>90.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>940</x>
+      <y>390</y>
+      <w>18</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Verify CC &amp; billing address
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>942</x>
+      <y>383</y>
+      <w>15</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Check CC# and three
+digit code to 
+billing address 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>931</x>
+      <y>391</y>
+      <w>11</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;90.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>980</x>
+      <y>380</y>
+      <w>21</w>
+      <h>12</h>
+    </coordinates>
+    <panel_attributes>Prompt user to reenter info
+--
+extension points :
+CC info and billing address
+do not match 
+valign=top
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>957</x>
+      <y>385</y>
+      <w>25</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>230.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>942</x>
+      <y>406</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Customer presses
+"Go" button 
+bg=pink
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>396</y>
+      <w>3</w>
+      <h>12</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>928</x>
+      <y>407</y>
+      <w>14</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>This proceeds with 
+order process
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>980</x>
+      <y>401</y>
+      <w>27</w>
+      <h>16</h>
+    </coordinates>
+    <panel_attributes>Nofity customer's book(s)
+is/are unavailable and send 
+them back to beginning of
+Book Purchase Process   
+--
+extension points :
+Book or books are unavailable 
+valign=top
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>955</x>
+      <y>407</y>
+      <w>27</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>250.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>942</x>
+      <y>419</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Order process begins 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>411</y>
+      <w>3</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>923</x>
+      <y>419</y>
+      <w>19</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Proceeding with order
+process implies that book(s)
+is/are avaiable 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>939</x>
+      <y>433</y>
+      <w>20</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>Debit inventory count for book 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>940</x>
+      <y>449</y>
+      <w>17</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>All shipping info is 
+sent to supplier 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>939</x>
+      <y>474</y>
+      <w>20</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>Credit supplier acct
+80% of the bill
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>939</x>
+      <y>489</y>
+      <w>20</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>Credit amazon acct for 20%
+of the bill 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>939</x>
+      <y>505</y>
+      <w>19</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Create and send shipping ID
+bg=blue
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>919</x>
+      <y>505</y>
+      <w>20</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Unique shipping ID created
+and sent to buyer &amp; shipper
+as well as recorded in amazon 
+database for this buyer
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>424</y>
+      <w>9</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>440</y>
+      <w>9</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>481</y>
+      <w>9</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>468</y>
+      <w>9</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>496</y>
+      <w>9</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>940</x>
+      <y>544</y>
+      <w>19</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Record book title 
+&amp; 
+subject tags
+bg=blue
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>959</x>
+      <y>544</y>
+      <w>20</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Enters book title and subject 
+tags for this buyer into the 
+amazon database
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>942</x>
+      <y>463</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Shipper receives 
+info 
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>454</y>
+      <w>9</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>942</x>
+      <y>519</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Shipper receives 
+ID
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>942</x>
+      <y>532</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes>Buyer receives 
+ID
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>510</y>
+      <w>9</w>
+      <h>11</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>524</y>
+      <w>9</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>948</x>
+      <y>537</y>
+      <w>9</w>
+      <h>9</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>884</x>
+      <y>571</y>
+      <w>19</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>Customer is sent to the main
+menu with an empty cart
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>925</x>
+      <y>545</y>
+      <w>17</w>
+      <h>4</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>150.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>912</x>
+      <y>555</y>
+      <w>14</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>Customer 
+logs off
+
+bg=pink</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>918</x>
+      <y>549</y>
+      <w>3</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>911</x>
+      <y>570</y>
+      <w>15</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Close down 
+&amp;
+clean up begins
+
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>918</x>
+      <y>558</y>
+      <w>3</w>
+      <h>14</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>912</x>
+      <y>588</y>
+      <w>14</w>
+      <h>6</h>
+    </coordinates>
+    <panel_attributes># of books sold 
+incremented
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>912</x>
+      <y>601</y>
+      <w>15</w>
+      <h>8</h>
+    </coordinates>
+    <panel_attributes>Compare purchase
+record &amp; ID
+to UPS #
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>898</x>
+      <y>602</y>
+      <w>14</w>
+      <h>7</h>
+    </coordinates>
+    <panel_attributes>Record and ID are 
+equated to UPS 
+delivery # for 
+further verification 
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>918</x>
+      <y>576</y>
+      <w>9</w>
+      <h>14</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>918</x>
+      <y>593</y>
+      <w>9</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;includes&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>951</x>
+      <y>581</y>
+      <w>20</w>
+      <h>10</h>
+    </coordinates>
+    <panel_attributes>Update user profile
+--
+extension points :
+if a purchase was made
+valign=top
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>898</x>
+      <y>553</y>
+      <w>14</w>
+      <h>9</h>
+    </coordinates>
+    <panel_attributes>Update user profile 
+by book category
+for all books bought 
+and the amount of 
+purchase
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>924</x>
+      <y>570</y>
+      <w>29</w>
+      <h>19</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>270.0;170.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>950</x>
+      <y>564</y>
+      <w>24</w>
+      <h>13</h>
+    </coordinates>
+    <panel_attributes>"also bought" # incremented
+--
+extension points :
+if two or more books are 
+bought and are all in the same 
+category 
+valign=top
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>924</x>
+      <y>568</y>
+      <w>28</w>
+      <h>5</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>260.0;10.0;10.0;30.0</additional_attributes>
+  </element>
+</diagram>

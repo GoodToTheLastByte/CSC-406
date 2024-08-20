@@ -1,0 +1,210 @@
+// Banking Base Data 
+// Darrian Sampson (2 Long Term Loans| 4 Checking Accounts: 2 TMB & 2 Gold/Diamond)
+
+{
+	"Customers":
+	[
+		{
+			"Social": "423453245114",
+			"Address": "North 4th",
+			"City": "Clarkesdale",
+			"State": "MO",
+			"Zip": 64493,
+			"FirstName": "Ronald",
+			"LastName": "Jones"
+		},
+		{
+			"Social": "3456534251805",
+			"Address": "Jules",
+			"City": "St. Joseph",
+			"State": "MO",
+			"Zip": 64503 ,
+			"FirstName": "Mark",
+			"LastName": "Ingrem"
+		},
+		{
+			"Social": "4231488942109",
+			"Address": "Sylviana",
+			"City": "St. Joseph",
+			"State": "MO",
+			"Zip": 64501,
+			"FirstName": "Sherry",
+			"LastName": "Harrison"
+		},
+		{
+			"Social": "6778790134305",
+			"Address": "West 3rd",
+			"City": "Wathena",
+			"State": "KS",
+			"Zip": 54910,
+			"FirstName": "John",
+			"LastName": "Morgeson"
+		},
+		
+		{
+			"Social": "345599870221",
+			"Address": "Sotuh Highly",
+			"City": "St. Joseph",
+			"State": "MO",
+			"Zip": 64503,
+			"FirstName": "Gary",
+			"LastName": "Gilkerson"
+		},
+		
+		{
+			"Social": "423567890335",
+			"Address": "Jules",
+			"City": "St. Joseph",
+			"State": "MO",
+			"Zip": 64503,
+			"FirstName": "Mary",
+			"LastName": "Francis"
+		},
+		
+	]
+	"CheckingAccounts":
+	[
+		{
+			"AccountID": "263748593021",
+			"CustomerSocial": 423453245114,
+			"AccountType: "Gold",
+			"CurrentBalance": 1000.00,
+			"BackupAccountIDs": 
+				[
+				"xxx", 
+				"xxx"
+				],
+			"OverdraftCount": 0,
+			"DateAccountOpened": "04/01/2001"
+		},
+		
+		{
+			"AccountID": "235462738492",
+			"CustomerSocial": 3456534251805,
+			"AccountType: "Diamond",
+			"CurrentBalance": 1500.00,
+			"BackupAccountIDs":  
+				[
+				"xxx", 
+				"xxx"
+				],
+			"OverdraftCount": 2,
+			"DateAccountOpened": "11/12/2002"
+		},
+		
+		{
+			"AccountID": "327162536427",
+			"CustomerSocial": 4231488942109,
+			"AccountType: "TMB",
+			"CurrentBalance": 125.00,
+			"BackupAccountIDs": 
+				[
+				"xxx", 
+				"xxx"
+				],
+			"OverdraftCount": 0,
+			"DateAccountOpened": "01/01/2007"
+		},
+		
+		{
+			"AccountID": "326263748219",
+			"CustomerSocial": 6778790134305,
+			"AccountType: "TMB",
+			"CurrentBalance": 375.00,
+			"BackupAccountIDs": 
+				[
+				"xxx", 
+				"xxx"
+				],
+			"OverdraftCount": 2,
+			"DateAccountOpened": "03/07/2005"
+		}
+	
+	]
+	"CreditCards":
+	[
+		{
+			"CreditCardID": "",
+			"CustomerSocial": ,
+			"CurrentBalance": ,
+			"CurrentInterestRate": ,
+			"DatePaymentDue": "",
+			"DateNotifiedOfPayment": "",
+			"CurrentPaymentDueAmt": "",
+			"DateLastPaymentMade": "",
+			"MissedPaymentFlag": ,
+			"CreditLimit": ,
+			"PurchasesThisMonth": 
+			[
+				{
+					"PurchaseID": "",
+					"PurchaseTitle": "",
+					"PurchaseLocation": "",
+					"PurchaseAmt": 
+				},
+				{
+					"PurchaseID": "",
+					"PurchaseTitle": "",
+					"PurchaseLocation": "",
+					"PurchaseAmt": 
+				}
+			]
+		},
+		{
+			"CreditCardID": "",
+			"CustomerSocial": ,
+			"CurrentBalance": ,
+			"CurrentInterestRate": ,
+			"DatePaymentDue": "",
+			"DateNotifiedOfPayment": "",
+			"CurrentPaymentDueAmt": "",
+			"DateLastPaymentMade": "",
+			"MissedPaymentFlag": ,
+			"CreditLimit": ,
+			"PurchasesThisMonth": 
+			[
+				{
+					"PurchaseID": "",
+					"PurchaseTitle": "",
+					"PurchaseLocation": "",
+					"PurchaseAmt": 
+				},
+				{
+					"PurchaseID": "",
+					"PurchaseTitle": "",
+					"PurchaseLocation": "",
+					"PurchaseAmt": 
+				}
+			]
+		}
+	]
+	"TermLoans":
+	[
+		{
+			"LoanID": "1232736451",
+			"TermLoanType": "Long",
+			"CustomerSocial": 345599870221,
+			"CurrentBalance": 500.00,
+			"FixedInterestRate": 0.06,
+			"FixedPaymentAmount": 759.00,
+			"DatePaymentDue": "10/28/2015",
+			"DateNotifiedOfPayment": "08/28/2015",
+			"CurrentPaymentDueAmt": 1593.00,
+			"DateLastPaymentMade": "08/28/2015",
+			"MissedPaymentFlag": 1 
+		},
+		{
+			"LoanID": "2317263746",
+			"TermLoanType": "Long",
+			"CustomerSocial": 423567890335,
+			"CurrentBalance": 1000.00,
+			"FixedInterestRate": 0.07,
+			"FixedPaymentAmount": 614.00,
+			"DatePaymentDue": "10/30/2015",
+			"DateNotifiedOfPayment": "10/01/2015",
+			"CurrentPaymentDueAmt": 614.00,
+			"DateLastPaymentMade": "09/30/2015",
+			"MissedPaymentFlag": 0
+		}
+	]
+}
